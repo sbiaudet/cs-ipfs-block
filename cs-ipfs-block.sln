@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPFS.BlockFormat", "src\cs-block-format\IPFS.BlockFormat.csproj", "{1C83C104-1337-4BFB-99EC-8D7E636B2C9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPFS.Block", "src\cs-block-format\IPFS.Block.csproj", "{1C83C104-1337-4BFB-99EC-8D7E636B2C9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPFS.BlockFormat.Test", "test\IPFS.Block.Test\IPFS.BlockFormat.Test.csproj", "{581DE392-7CBC-404E-B8B7-DD47D84DA8CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPFS.Block.Test", "test\IPFS.Block.Test\IPFS.Block.Test.csproj", "{581DE392-7CBC-404E-B8B7-DD47D84DA8CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

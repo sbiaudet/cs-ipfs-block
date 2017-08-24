@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\cs-block-format\IPFS.BlockFormat.csproj" />
+    <ProjectReference Include="..\..\src\cs-block-format\IPFS.Block.csproj" />
   </ItemGroup>
 
 </Project>

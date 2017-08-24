@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.6</TargetFramework>
-    <AssemblyName>IPFS.BlockFormat</AssemblyName>
-    <RootNamespace>IPFS.BlockFormat</RootNamespace>
+    <AssemblyName>IPFS.Block</AssemblyName>
+    <RootNamespace>IPFS.Block</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
